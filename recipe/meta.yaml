@@ -1,5 +1,5 @@
 {% set name = "cool_maps" %}
-{% set version = "0.0.8" %}
+{% set version = "0.0.9" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/rucool/cool_maps/archive/{{ version }}.tar.gz
-  sha256: cef931e774d0753d2911c0bd6bea5477a8d20b5a6ecbf8b5f8ef98ff99d7502f
+  sha256: 66629206fbc6de61da64aa5ea21913787be4517f919d0a12c52d3e279053ede3
 
 build:
   noarch: python
