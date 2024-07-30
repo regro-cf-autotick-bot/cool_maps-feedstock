@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/rucool/cool_maps/archive/{{ version }}.tar.gz
-  sha256: cb1a0e70a0b821252a382ed3f050e5b86ac130959d2e6e96bd169005eb75c795
+  sha256: 001ca834dcecce12354e6ef2d33b09d653fa745e8d5fc6153e6cbd1ac2dc4c48
 
 build:
   noarch: python
