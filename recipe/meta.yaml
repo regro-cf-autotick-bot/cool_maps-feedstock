@@ -24,7 +24,7 @@ requirements:
     - matplotlib-base
     - cmocean
     - oceans
-    - numpy >2.0
+    - numpy
     - erddapy
 
 test:
