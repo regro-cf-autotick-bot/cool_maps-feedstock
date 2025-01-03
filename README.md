@@ -1,11 +1,11 @@
-About cool_maps
-===============
+About cool_maps-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/cool_maps-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/rucool/cool_maps
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/cool_maps-feedstock/blob/main/LICENSE.txt)
 
 Summary: Wrapper around Cartopy to easily generate nice-looking maps passing just the extent.
 
@@ -97,7 +97,7 @@ available continuous integration services. Thanks to the awesome service provide
 [CircleCI](https://circleci.com/), [AppVeyor](https://www.appveyor.com/),
 [Drone](https://cloud.drone.io/welcome), and [TravisCI](https://travis-ci.com/)
 it is possible to build and upload installable packages to the
-[conda-forge](https://anaconda.org/conda-forge) [Anaconda-Cloud](https://anaconda.org/)
+[conda-forge](https://anaconda.org/conda-forge) [anaconda.org](https://anaconda.org/)
 channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance
@@ -145,5 +145,7 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@lgarzio](https://github.com/lgarzio/)
+* [@lnazzaro](https://github.com/lnazzaro/)
 * [@najascutellatus](https://github.com/najascutellatus/)
 
